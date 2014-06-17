@@ -25,22 +25,22 @@ the following satellites, to get full planet coverage (except polar regions)
 ### Source Birds
 
   * MTSAT2 - Himawari 7 - L: 2006/02/18 - P: GEO E145°
-    -> Channel 4: 6.5-7.0um water vapor channel (IR3) with a HgCdTe detector
+    * Channel 4: 6.5-7.0um water vapor channel (IR3) with a HgCdTe detector
 
   * MSG3 - Meteosat-10 - L: 2012/07/05 - P: GEO 0°
-    -> Channel 9: 9.80-11.80um Spinning Enhanced Visible and InfraRed (HgCdTe) Imager (SEVIRI)
-    https://directory.eoportal.org/web/eoportal/satellite-missions/m/meteosat-second-generation 
+    * Channel 9: 9.80-11.80um Spinning Enhanced Visible and InfraRed (HgCdTe) Imager (SEVIRI)
+    * https://directory.eoportal.org/web/eoportal/satellite-missions/m/meteosat-second-generation 
 
   * MET7 - Meteosat-7 (IODC) - L: 2006/12/05 - P: GEO E57.3°
-    -> Channel 2:  
-    http://www.wmo-sat.info/oscar/satellites/view/301
-    https://directory.eoportal.org/web/eoportal/satellite-missions/m/meteosat-first-generation
+    * Channel 2:  
+    * http://www.wmo-sat.info/oscar/satellites/view/301
+    * https://directory.eoportal.org/web/eoportal/satellite-missions/m/meteosat-first-generation
 
   * GOES13 - GOES-N - L: 2006/05/24 - P: GEO W75° 
-    -> Channel 4: IR Imager
+    * Channel 4: IR Imager
 
   * GOES15 - GOES-P - L: 2010/03/04 - P: GEO W135°
-    -> Channel 4: IR Imager
+    * Channel 4: IR Imager
 
 ### Source image distribution
 
