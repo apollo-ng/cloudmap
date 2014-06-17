@@ -17,7 +17,7 @@ To get archived images, just check out the specific commit(s) for the timestamp(
 
 ## Operation
 
-![HOWTO make near realtime cloudmaps of our world yourself](https://raw.githubusercontent.com/apollo-ng/couldmap/master/howto_global_cloudmap.jpg "HOWTO make near realtime cloudmaps of our world yourself")
+![HOWTO make near realtime cloudmaps of our world yourself](https://raw.githubusercontent.com/apollo-ng/cloudmap/master/howto_global_cloudmap.jpg "HOWTO make near realtime cloudmaps of our world yourself")
 
 The whole process is set up to work completely autonomously, pulling the latest images from
 the following satellites, to get full planet coverage (except polar regions)
