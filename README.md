@@ -37,8 +37,8 @@ delivery infrastructure and traffic budget:
         # Generate checksum of downloaded file
         NEWSHA=$(sha256sum global.jpg | awk {'print $1;'})
     
-        # Check if download's chksum corresponds to to origin
-        if [ $NEWSHA == $ORIGINSHA ];
+        # Check if download's chksum corresponds to origin
+        if [ "$NEWSHA" == "$ORIGINSHA" ];
         then
             mv global.jpg clouds.jpg
         else
