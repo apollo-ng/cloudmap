@@ -1,6 +1,6 @@
 # Global Cloudmap Repo
 
-This repo serves as a distribution point for near realtime and archive access to global cloudmaps you can use with xplanet (see  https://github.com/chron0/xfce-planet) or as blender textures. Full pull not recommended :)
+This repo serves as a distribution point for near realtime and archive access to global cloudmaps you can use with xplanet (see  https://github.com/apollo-ng/xfce-planet) or as blender textures. Full pull not recommended :)
 
 
 ## Usage
